@@ -19,7 +19,7 @@ export default function FormularioBroma() {
       {!mostrarConfirmacion ? (
         <div className="space-y-4">
           <p className="text-gray-700 text-sm font-bold mb-2">
-            Al presionar SI, acepta todos los términos y condiciones sin derecho a posterior 
+            Al presionar SI, acepta todos los términos y condiciones sin derecho a retracto.
           </p>
           <div className="grid  grid-cols-2 gap-4">
             <button
